@@ -3,4 +3,4 @@ numpy
 joblib
 streamlit
 pickle
-sklearn
+scikit-learn
